@@ -1,0 +1,35 @@
+{
+  "name": "pot-pi",
+  "version": "1.0.0",
+  "description": "Admin dashboard to track raspberry pi soil moisture, temperature, humidity, and more.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlantaff/pot-pi.git"
+  },
+  "keywords": [
+    "Raspberry",
+    "pi",
+    "smart",
+    "plant",
+    "pot",
+    "smart",
+    "pot",
+    "pot",
+    "pi"
+  ],
+  "author": "Ben Lantaff (blantaff@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benlantaff/pot-pi/issues"
+  },
+  "homepage": "https://github.com/benlantaff/pot-pi#readme",
+  "dependencies": {
+    "check-disk-space": "^3.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
